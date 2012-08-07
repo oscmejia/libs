@@ -1,0 +1,25 @@
+{
+  "name"			: "libs",
+  "version"			: "0.1.2",
+  "description"		: "utilities for general NodeJS development",
+  "url"           	: "http://oscar-mejia.com",
+  "main"			: "./lib/libs.js",
+  "directories"   	: { "test": "./test"},
+  "dependencies"	: {
+						"dateformat": "1.0.2-1.2.3"
+				  	  },
+  "repository"		: {
+						"type": "git",
+						"url": "https://github.com/oscmejia/libs"
+  					  },
+  "keywords"		: [
+						"utils",
+						"utilities",
+						"common"
+  						], 
+  "author"			: {
+						"name": "Oscar Mejia",
+						"email": "oscmejia@vovsolutions.com"
+  					  },
+  "license"			: "BSD"
+}
